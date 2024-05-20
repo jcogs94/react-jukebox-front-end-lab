@@ -1,0 +1,9 @@
+#track-list {
+    background-color: #282828;
+    padding: 40px 80px;
+    margin: 5px 10px;
+}
+
+#track-list > h2 {
+    color: #ff4500;
+}
